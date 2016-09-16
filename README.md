@@ -4,6 +4,6 @@
 
 
 # Sources
-https://www.irit.fr/~Cassia.Trojahn/master/entrepot.pdf
-https://www.irit.fr/~Cassia.Trojahn/master/etl.pdf
+https://www.irit.fr/~Cassia.Trojahn/master/entrepot.pdf<br>
+https://www.irit.fr/~Cassia.Trojahn/master/etl.pdf<br>
 https://www.irit.fr/~Cassia.Trojahn/master/olap.pdf
